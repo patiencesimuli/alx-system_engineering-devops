@@ -1,1 +1,1 @@
-This project contains a script that prints Hello World to the standard output
+a script that displays a confused smiley
